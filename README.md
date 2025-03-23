@@ -21,3 +21,5 @@ This project implements a portfolio optimization strategy that leverages:
     Rolling beta estimation and factor exposure adjustment.
     Stock weight optimization using Max Sharpe Ratio.
     Performance benchmarking against NIFTY 50.
+    
+### Just for learning purpose
